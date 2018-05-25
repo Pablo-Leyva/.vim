@@ -1,6 +1,5 @@
 execute pathogen#infect()
 
-colorscheme wombat
-
-filetype plugin indent on
+colorscheme molokai
 syntax on
+filetype plugin indent on
