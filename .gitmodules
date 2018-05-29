@@ -4,3 +4,6 @@
 [submodule "bundle/delimitMate"]
 	path = bundle/delimitMate
 	url = https://github.com/Raimondi/delimitMate.git
+[submodule "bundle/vim-native-syntax"]
+	path = bundle/vim-native-syntax
+	url = https://github.com/kbenzie/vim-native-syntax
