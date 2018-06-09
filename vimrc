@@ -6,3 +6,5 @@ syntax enable
 
 let delimitMate_expand_cr=1
 filetype plugin indent on
+
+autocmd vimenter * NERDTree

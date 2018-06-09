@@ -7,3 +7,6 @@
 [submodule "bundle/vim-native-syntax"]
 	path = bundle/vim-native-syntax
 	url = https://github.com/kbenzie/vim-native-syntax
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
